@@ -8,7 +8,7 @@ Il s’agit d’un projet **documentaire** : chaque fonctionnalité est représe
 
 ## 👥 Équipe et répartition
 
-### Nathanael
+### Natanael
 - `feature/login-system` → [`docs/LOGIN_SYSTEM.md`](docs/LOGIN_SYSTEM.md)  
 - `feature/profile-management` → [`docs/PROFILE_MANAGEMENT.md`](docs/PROFILE_MANAGEMENT.md)  
 
