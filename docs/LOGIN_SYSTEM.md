@@ -18,3 +18,5 @@ Mettre en place un système d'authentification sécurisé.
 ## Bonnes pratiques
 - Ne jamais stocker de mot de passe en clair
 - Ajouter des tests unitaires
+
+Phrase de test
