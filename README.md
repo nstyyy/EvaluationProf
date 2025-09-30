@@ -8,15 +8,15 @@ Il s’agit d’un projet **documentaire** : chaque fonctionnalité est représe
 
 ## 👥 Équipe et répartition
 
-### Personne A
+### Nathanael
 - `feature/login-system` → [`docs/LOGIN_SYSTEM.md`](docs/LOGIN_SYSTEM.md)  
 - `feature/profile-management` → [`docs/PROFILE_MANAGEMENT.md`](docs/PROFILE_MANAGEMENT.md)  
 
-### Personne B
+### Louis
 - `feature/dashboard` → [`docs/DASHBOARD.md`](docs/DASHBOARD.md)  
 - `feature/notifications` → [`docs/NOTIFICATIONS.md`](docs/NOTIFICATIONS.md)  
 
-### Personne C
+### Mathieu
 - `feature/data-export` → [`docs/DATA_EXPORT.md`](docs/DATA_EXPORT.md)  
 - `feature/api-integration` → [`docs/API_INTEGRATION.md`](docs/API_INTEGRATION.md)  
 
